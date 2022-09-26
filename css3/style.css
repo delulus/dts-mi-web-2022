@@ -1,0 +1,113 @@
+body{
+	background-color:#D3E0ED;}
+.titulo{
+	font-family: 'Poppins', sans-serif;
+	position: relative;
+	margin-left: 50px ;
+	font-size: 45px;
+}
+.fondo{
+	width: 500px;
+	height: 300px;
+	background: white;
+	margin: 50px;
+	display: inline-block;
+	float: left;}
+#grecia{ background-color: #1B5EAA; }
+.franja1{
+	width: 325px;
+	height: 33px;
+	background-color: white;
+	float: right;
+	position: relative;
+	margin-top: 40px;
+
+}
+.franja2{
+	width: 175px;
+	height: 33px;
+	background-color: white;
+	position: relative;
+	margin-top: 73px;
+}
+.franja3{
+	width: 325px;
+	height: 33px;
+	background-color: white;
+	float: right;
+}
+.franja4{
+	width: 33px;
+	height: 170px;
+	background-color: white;
+	position: relative;
+	margin-top: -106px;
+	margin-left: 70px;
+}
+.franja5{
+	width: 100%;
+	height: 33px;
+	background-color: white;
+}
+.franja6{
+	width: 100%;
+	height: 33px;
+	background-color: white;
+	position: relative;
+	margin-top: 30px;}
+.nombre{
+	position: relative;
+	margin-top: 35px;
+	font-family: 'Signika', sans-serif;
+}
+a{color: black;}
+a:hover{ color: hotpink; }
+#laos{ background-color: #22315F; }
+.franja7{
+	width:100%;
+	height: 80px;
+	background-color:#CE1327;
+}
+.franja8{
+	width: 100%;
+	height: 80px;
+	background-color: #CE1327;
+	position: relative;
+	top: 140px;
+}
+.simb{
+	width: 122px;
+	height: 122px;
+	position: absolute;
+	margin-left: 180px;
+	margin-top: 10px;
+
+
+}
+.nombre1{
+	position: relative;
+	margin-top: 140px;
+	font-family: 'Signika', sans-serif;
+}
+
+
+#suecia{ background-color: #0A6BA8; }
+.franja9{
+	width: 100%;
+	height: 50px;
+	background-color:#FDCB15 ;
+	position: relative;
+margin-top: 100px;}
+.franja10{
+	width: 55px;
+	height: 300px;
+	background-color: #FDCB15;
+	position: relative;
+	margin-top: -150px;
+	margin-left: 150px;
+}
+.nombre2{
+	position: relative;
+	margin-top: 3px;
+	font-family: 'Signika', sans-serif;
+}
